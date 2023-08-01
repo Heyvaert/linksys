@@ -1,0 +1,2 @@
+# linksys
+wrt54g
